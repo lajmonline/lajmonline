@@ -2,7 +2,7 @@
 - 👀 I’m interested in seo
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on seo outsourcing
-- 📫 How to reach me www.lajmonline.com or ziqilaidong#gmail.com
+- 📫 How to reach me ziqilaidong#gmail.com
 
 <!---
 lajmonline/lajmonline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
